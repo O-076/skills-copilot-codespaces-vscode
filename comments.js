@@ -1,4 +1,4 @@
-// create web server with raw java script
+// Create web server with raw java script
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
